@@ -148,6 +148,4 @@ Conference: ACDIS 2024
 
 LinkedIn: https://www.linkedin.com/in/aryaman-modi-8a834a200/
 
-GitHub: https://github.com/<your-username>
-
 Email: modiaryaman@gmail.com
